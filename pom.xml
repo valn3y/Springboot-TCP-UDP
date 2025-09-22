@@ -8,10 +8,10 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sidi</groupId>
-	<artifactId>zitter-mao</artifactId>
+	<groupId>com.network</groupId>
+	<artifactId>example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ZITTER MAO</name>
+	<name>Network Example</name>
 	<description>Server to validations</description>
 	<url/>
 	<licenses>

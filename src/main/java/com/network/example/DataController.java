@@ -1,4 +1,4 @@
-package com.sidi.zitter_mao;
+package com.network.example;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;

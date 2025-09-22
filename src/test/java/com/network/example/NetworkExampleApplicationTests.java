@@ -1,10 +1,10 @@
-package com.sidi.zitter_mao;
+package com.network.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ZitterMaoApplicationTests {
+class NetworkExampleApplicationTests {
 
 	@Test
 	void contextLoads() {

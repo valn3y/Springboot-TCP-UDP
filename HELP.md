@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.sidi.zitter-mao' is invalid and this project uses 'com.sidi.zitter_mao' instead.
+* The original package name 'com.network.example' is invalid and this project uses 'com.network_example' instead.
 
 # Getting Started
 

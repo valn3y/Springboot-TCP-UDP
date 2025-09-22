@@ -1,13 +1,13 @@
-package com.sidi.zitter_mao;
+package com.network.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ZitterMaoApplication {
+public class NetworkExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZitterMaoApplication.class, args);
+		SpringApplication.run(NetworkExampleApplication.class, args);
 	}
 
 }
